@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42521'
     url: http://www.gutenberg.org/2009/agents/42521
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44016#The-White-Spark
 gutenberg_issued: '2013-10-23'
 gutenberg_type: Text
 identifiers:
